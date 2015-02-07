@@ -1,4 +1,6 @@
-/* Separator About - Parallax Section */
+/* Separators with Parallax */
+/* Have one medicine, one tech, one social */
+
 .sep {
 	background-attachment: fixed;
 	background-position: 50% 0;
@@ -16,4 +18,14 @@
 
 .C {
 	background-image: url(../img/contact-sep.jpg);
+}
+
+.excerpt{
+	vertical-align: center;
+}
+
+.excerpt h4{
+	vertical-align: center;
+	padding-top: 0;
+	margin-top: 0;
 }
